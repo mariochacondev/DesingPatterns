@@ -1,2 +1,2 @@
-# DesingPatterns
-Desing Patterns Decoration
+# DesignPatterns
+Design Patterns Decoration
